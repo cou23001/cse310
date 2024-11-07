@@ -1,1 +1,1 @@
-# cse310
+# CSE310 Applied Programming
